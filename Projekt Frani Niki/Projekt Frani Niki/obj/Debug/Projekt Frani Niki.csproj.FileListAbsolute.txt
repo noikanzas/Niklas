@@ -1,0 +1,30 @@
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.exe.config
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.exe
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.pdb
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csprojAssemblyReference.cache
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\MainWindow.g.cs
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\App.g.cs
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki_MarkupCompile.cache
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki_MarkupCompile.lref
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\MainWindow.baml
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.g.resources
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt_Frani_Niki.Properties.Resources.resources
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csproj.GenerateResource.cache
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csproj.CoreCompileInputs.cache
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.exe
+C:\Users\DJNik\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.pdb
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csprojAssemblyReference.cache
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\MainWindow.g.cs
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\App.g.cs
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki_MarkupCompile.cache
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki_MarkupCompile.lref
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.exe
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.pdb
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\MainWindow.baml
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.g.resources
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.exe.config
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.exe
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\bin\Debug\Projekt Frani Niki.pdb
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt_Frani_Niki.Properties.Resources.resources
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csproj.GenerateResource.cache
+C:\Users\Niklas Kiehl\OneDrive - Schwyzer Kantonalbank\Lehre\GIBZ\1. Lehrjahr\404\Projekt Frani Niki\Projekt Frani Niki\Projekt Frani Niki\obj\Debug\Projekt Frani Niki.csproj.CoreCompileInputs.cache
